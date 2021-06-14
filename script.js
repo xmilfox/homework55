@@ -46,7 +46,7 @@ showProps(object);
 
 // завдання 3
 
-дуеworker = new Worker('Назар', 'Хміль', 10, 31);
+let worker = new Worker('Назар', 'Хміль', 10, 31);
 
 console.log(worker.getRate()); 
 console.log(worker.getDays()); 
