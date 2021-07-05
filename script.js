@@ -78,7 +78,7 @@ console.log(stud1.showFullName("Petrovych"));
 console.log("Current course: " + stud1.showCourse());
 
 
-// task 4
+// завдання 4
 
 class Worker {
 
@@ -135,7 +135,7 @@ for (let j = 0; j < sortedSalary.length; j++) {
 
 
 
-// task 5
+// завдання 5
 
 class GeometricFigure {
   constructor() {}
